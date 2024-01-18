@@ -3,7 +3,7 @@
 @attribute a2 real
 @attribute class {0,1}
 @data
-5.0, 3.0, 0
+4.4, 3.0, 0
 3.0, 4.0, 0
 1.7, 2.5, 0
 2.6, 3.5, 0
